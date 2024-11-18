@@ -1,0 +1,74 @@
+body {
+    background-image: url("9d9d4f85525c91697c582c769291f779.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+
+@font-face {
+    font-family: "Karma";
+    src: url("fonts/Karma-Medium.ttf");
+}
+
+@font-face {
+    font-family:"Jacques Francois"; 
+    src: url("fonts/JacquesFrancois-Regular.ttf");
+}
+
+.nav-link {
+    font-family: "karma";
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 49.41px;
+    margin-left: 45px;
+    margin-top: 54px;
+}
+
+.img1 {
+    position: absolute;
+    top: 0px;
+}
+
+.toggler {
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.img3 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+}
+
+.jellyfish {
+    width: 835px;
+    height: 251px;
+    font-family: "Jacques Francois";
+    font-size: 190px;
+    font-weight: 400;
+    line-height: 250.58px;
+    color:  linear-gradient(93.7deg, rgba(255, 0, 77, 0.44) -4.84%, rgba(10, 65, 125, 0.44) 49.03%, rgba(222, 27, 168, 0.44) 101.79%);
+    margin-left: 100px;
+}
+
+.img4 {
+    position: absolute;
+    top: 35px;
+    right: 0px;
+   width: 46%;
+}
+
+.p1 {
+    color: white;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 34.42px;
+    text-align: left;
+    position: absolute;
+    left: 250px;
+
+}
+
+
+
